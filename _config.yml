@@ -13,12 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Powered Start Bootstrap Template
+title: Ananto's Porfolio
 email: gg.ananto@gmail.com
 description:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anantoj.github.io"
+
+linkedin_url: "https://www.linkedin.com/in/ananto-joyoadikusumo-323103193/"
+github_username: "anantoj"
+twitter_username: ""
 
 # Build settings
 markdown: kramdown
