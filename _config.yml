@@ -17,8 +17,8 @@ title: Jekyll Powered Start Bootstrap Template
 email: gg.ananto@gmail.com
 description:
 
-baseurl: "anantoj.github.io" # the subpath of your site, e.g. /blog
-url: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://anantoj.github.io"
 
 # Build settings
 markdown: kramdown
